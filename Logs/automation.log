@@ -1,0 +1,277 @@
+06/15/2026 03:26:38 PM: INFO: ********************* Test_001_Login **********************
+06/15/2026 03:26:38 PM: INFO: ********************* Verifying Home Page Title **********************
+06/15/2026 03:26:44 PM: INFO: ******************* Home page title test is passed *********************
+06/15/2026 03:26:47 PM: INFO: ******************* Verifying the login test *********************
+06/15/2026 03:27:09 PM: INFO: ******************* Login test is passed *********************
+06/15/2026 03:49:06 PM: INFO: ********************* Test_001_Login **********************
+06/15/2026 03:49:06 PM: INFO: ********************* Verifying Home Page Title **********************
+06/15/2026 03:49:19 PM: INFO: ******************* Home page title test is passed *********************
+06/15/2026 03:49:35 PM: INFO: ******************* Verifying the login test *********************
+06/15/2026 03:50:09 PM: INFO: ******************* Login test is passed *********************
+06/15/2026 04:00:42 PM: WARNING: The geckodriver version (0.36.0) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\geckodriver.exe might not be compatible with the detected firefox version (151.0.2); currently, geckodriver 0.37.0 is recommended for firefox 151.*, so it is advised to delete the driver in PATH and retry
+06/15/2026 04:00:50 PM: WARNING: The geckodriver version (0.36.0) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\geckodriver.exe might not be compatible with the detected firefox version (151.0.2); currently, geckodriver 0.37.0 is recommended for firefox 151.*, so it is advised to delete the driver in PATH and retry
+06/15/2026 04:08:07 PM: WARNING: The geckodriver version (0.36.0) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\geckodriver.exe might not be compatible with the detected firefox version (151.0.4); currently, geckodriver 0.37.0 is recommended for firefox 151.*, so it is advised to delete the driver in PATH and retry
+06/15/2026 04:09:16 PM: INFO: ********************* Test_001_Login **********************
+06/15/2026 04:09:16 PM: INFO: ********************* Verifying Home Page Title **********************
+06/15/2026 04:09:27 PM: INFO: ******************* Home page title test is passed *********************
+06/15/2026 04:09:35 PM: WARNING: The geckodriver version (0.36.0) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\geckodriver.exe might not be compatible with the detected firefox version (151.0.4); currently, geckodriver 0.37.0 is recommended for firefox 151.*, so it is advised to delete the driver in PATH and retry
+06/15/2026 04:10:15 PM: INFO: ******************* Verifying the login test *********************
+06/15/2026 04:10:42 PM: INFO: ******************* Login test is passed *********************
+06/15/2026 04:13:41 PM: INFO: ******************* Verifying the login test *********************
+06/15/2026 04:13:42 PM: INFO: ********************* Test_001_Login **********************
+06/15/2026 04:13:42 PM: INFO: ********************* Verifying Home Page Title **********************
+06/15/2026 04:14:46 PM: INFO: ******************* Verifying the login test *********************
+06/15/2026 04:14:48 PM: INFO: ********************* Test_001_Login **********************
+06/15/2026 04:14:48 PM: INFO: ********************* Verifying Home Page Title **********************
+06/15/2026 04:15:00 PM: INFO: ******************* Home page title test is passed *********************
+06/15/2026 04:15:06 PM: INFO: ******************* Login test is passed *********************
+06/16/2026 02:26:07 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.115 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/16/2026 02:26:33 PM: INFO: ********************* Test_001_Login **********************
+06/16/2026 02:26:33 PM: INFO: ********************* Verifying Home Page Title **********************
+06/16/2026 02:26:34 PM: INFO: ******************* Verifying the login test *********************
+06/16/2026 02:26:43 PM: INFO: ******************* Home page title test is passed *********************
+06/16/2026 02:27:07 PM: INFO: ******************* Login test is passed *********************
+06/16/2026 03:45:26 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.115 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/16/2026 03:45:38 PM: INFO: ******************* Test_002_DDT_Login ***************************
+06/16/2026 03:45:38 PM: INFO: ******************* Verifying the login test *********************
+06/16/2026 03:45:57 PM: INFO: ******************* Login test is passed *********************
+06/16/2026 03:46:04 PM: INFO: ****************** Login DDT test passed ****************
+06/16/2026 03:47:28 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.115 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/16/2026 03:47:32 PM: INFO: ******************* Test_002_DDT_Login ***************************
+06/16/2026 03:47:32 PM: INFO: ******************* Verifying the login test *********************
+06/16/2026 03:47:46 PM: INFO: ******************* Login test is passed *********************
+06/16/2026 03:47:55 PM: INFO: ******************* Login test is Passed *********************
+06/16/2026 03:48:03 PM: INFO: ******************* Login test is Passed *********************
+06/16/2026 03:48:09 PM: INFO: ******************* Login test is Passed *********************
+06/16/2026 03:48:09 PM: INFO: ****************** Login DDT test passed ****************
+06/16/2026 03:48:14 PM: INFO: ************** End of Login DDT Test ********************
+06/16/2026 03:48:14 PM: INFO: *************** Completed TC_Login_DDT_002 ********************
+06/19/2026 03:24:58 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/19/2026 03:25:03 PM: INFO: ***************** Test_003_AddCustomer ******************************
+06/19/2026 03:25:21 PM: INFO: *************Login Successful ***********************
+06/19/2026 03:25:21 PM: INFO: *************** Starting Add Customer Test ********************
+06/19/2026 03:34:41 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/19/2026 03:34:47 PM: INFO: ***************** Test_003_AddCustomer ******************************
+06/19/2026 03:34:59 PM: INFO: *************Login Successful ***********************
+06/19/2026 03:34:59 PM: INFO: *************** Starting Add Customer Test ********************
+06/19/2026 03:35:08 PM: INFO: ************** Providing customer info **********************
+06/19/2026 03:35:19 PM: INFO: **************** Saving the customer info ***************
+06/19/2026 03:35:19 PM: INFO: ************** Add customer validation started *****************
+06/19/2026 03:37:16 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/19/2026 03:37:20 PM: INFO: ***************** Test_003_AddCustomer ******************************
+06/19/2026 03:37:29 PM: INFO: *************Login Successful ***********************
+06/19/2026 03:37:29 PM: INFO: *************** Starting Add Customer Test ********************
+06/19/2026 03:37:31 PM: INFO: ************** Providing customer info **********************
+06/19/2026 03:37:39 PM: INFO: **************** Saving the customer info ***************
+06/19/2026 03:37:39 PM: INFO: ************** Add customer validation started *****************
+06/19/2026 03:38:54 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/19/2026 03:39:10 PM: INFO: ***************** Test_003_AddCustomer ******************************
+06/19/2026 03:39:27 PM: INFO: *************Login Successful ***********************
+06/19/2026 03:39:27 PM: INFO: *************** Starting Add Customer Test ********************
+06/19/2026 03:39:30 PM: INFO: ************** Providing customer info **********************
+06/19/2026 03:39:32 PM: INFO: **************** Saving the customer info ***************
+06/19/2026 03:39:32 PM: INFO: ************** Add customer validation started *****************
+06/19/2026 03:39:33 PM: ERROR: **************** Add Customer Test Failed *********************
+06/19/2026 03:42:48 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/19/2026 03:42:52 PM: INFO: ***************** Test_003_AddCustomer ******************************
+06/19/2026 03:43:10 PM: INFO: *************Login Successful ***********************
+06/19/2026 03:43:10 PM: INFO: *************** Starting Add Customer Test ********************
+06/19/2026 03:43:14 PM: INFO: ************** Providing customer info **********************
+06/19/2026 03:43:18 PM: INFO: **************** Saving the customer info ***************
+06/19/2026 03:43:18 PM: INFO: ************** Add customer validation started *****************
+06/19/2026 03:43:53 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/19/2026 03:43:56 PM: INFO: ***************** Test_003_AddCustomer ******************************
+06/19/2026 03:44:11 PM: INFO: *************Login Successful ***********************
+06/19/2026 03:44:11 PM: INFO: *************** Starting Add Customer Test ********************
+06/19/2026 03:44:12 PM: INFO: ************** Providing customer info **********************
+06/19/2026 03:44:14 PM: INFO: **************** Saving the customer info ***************
+06/19/2026 03:44:14 PM: INFO: ************** Add customer validation started *****************
+06/19/2026 03:44:14 PM: INFO: ************** Add Customer Test Passed *******************
+06/19/2026 03:47:13 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/19/2026 03:47:19 PM: INFO: ***************** Test_003_AddCustomer ******************************
+06/19/2026 03:47:35 PM: INFO: *************Login Successful ***********************
+06/19/2026 03:47:35 PM: INFO: *************** Starting Add Customer Test ********************
+06/19/2026 03:47:48 PM: INFO: ************** Providing customer info **********************
+06/19/2026 03:47:54 PM: INFO: **************** Saving the customer info ***************
+06/19/2026 03:47:54 PM: INFO: ************** Add customer validation started *****************
+06/19/2026 03:47:55 PM: ERROR: **************** Add Customer Test Failed *********************
+06/19/2026 03:48:36 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/19/2026 03:48:39 PM: INFO: ***************** Test_003_AddCustomer ******************************
+06/19/2026 03:48:46 PM: INFO: *************Login Successful ***********************
+06/19/2026 03:48:46 PM: INFO: *************** Starting Add Customer Test ********************
+06/19/2026 03:48:51 PM: INFO: ************** Providing customer info **********************
+06/19/2026 03:48:55 PM: INFO: **************** Saving the customer info ***************
+06/19/2026 03:48:55 PM: INFO: ************** Add customer validation started *****************
+06/19/2026 03:48:56 PM: ERROR: **************** Add Customer Test Failed *********************
+06/19/2026 04:44:26 PM: WARNING: Exception managing chrome: error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)
+06/19/2026 04:44:26 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver  is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/19/2026 04:44:26 PM: WARNING: Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+06/19/2026 04:44:40 PM: INFO: ***************** SearchCustomerByEmail_004 ******************************
+06/19/2026 04:45:04 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/19/2026 04:45:10 PM: INFO: ***************** SearchCustomerByEmail_004 ******************************
+06/19/2026 04:45:26 PM: INFO: *************Login Successful ***********************
+06/19/2026 04:45:26 PM: INFO: *********** Starting Search Customer By Email *****************
+06/19/2026 04:45:27 PM: INFO: ************ Searching Customer By EmailId *****************
+06/19/2026 04:47:48 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/19/2026 04:47:57 PM: INFO: ***************** SearchCustomerByEmail_004 ******************************
+06/19/2026 04:48:24 PM: INFO: *************Login Successful ***********************
+06/19/2026 04:48:24 PM: INFO: *********** Starting Search Customer By Email *****************
+06/19/2026 04:48:25 PM: INFO: ************ Searching Customer By EmailId *****************
+06/19/2026 04:50:58 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/19/2026 04:51:13 PM: INFO: ***************** SearchCustomerByEmail_004 ******************************
+06/19/2026 04:51:23 PM: INFO: *************Login Successful ***********************
+06/19/2026 04:51:23 PM: INFO: *********** Starting Search Customer By Email *****************
+06/19/2026 04:51:25 PM: INFO: ************ Searching Customer By EmailId *****************
+06/19/2026 04:55:02 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/19/2026 04:55:07 PM: INFO: ***************** SearchCustomerByEmail_004 ******************************
+06/19/2026 04:55:46 PM: INFO: *************Login Successful ***********************
+06/19/2026 04:55:46 PM: INFO: *********** Starting Search Customer By Email *****************
+06/19/2026 04:55:49 PM: INFO: ************ Searching Customer By EmailId *****************
+06/19/2026 04:59:22 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/19/2026 04:59:29 PM: INFO: ***************** SearchCustomerByEmail_004 ******************************
+06/19/2026 04:59:39 PM: INFO: *************Login Successful ***********************
+06/19/2026 04:59:39 PM: INFO: *********** Starting Search Customer By Email *****************
+06/19/2026 04:59:41 PM: INFO: ************ Searching Customer By EmailId *****************
+06/19/2026 04:59:59 PM: INFO: ************* TC_SearchCustomerByEmail_004 Finished ************
+06/20/2026 03:58:59 PM: WARNING: Exception managing chrome: error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)
+06/20/2026 03:58:59 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver  is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/20/2026 03:58:59 PM: WARNING: Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+06/20/2026 03:59:04 PM: INFO: ***************** SearchCustomerByName_005 ******************************
+06/20/2026 03:59:31 PM: WARNING: Exception managing chrome: error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)
+06/20/2026 03:59:31 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver  is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/20/2026 03:59:42 PM: INFO: ***************** SearchCustomerByName_005 ******************************
+06/20/2026 03:59:56 PM: INFO: *************Login Successful ***********************
+06/20/2026 03:59:56 PM: INFO: *********** Starting Search Customer By Name *****************
+06/20/2026 03:59:58 PM: INFO: ************ Searching Customer By Name *****************
+06/20/2026 04:01:05 PM: WARNING: Exception managing chrome: error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)
+06/20/2026 04:01:05 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver  is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/20/2026 04:01:21 PM: INFO: ***************** SearchCustomerByName_005 ******************************
+06/20/2026 04:01:30 PM: INFO: *************Login Successful ***********************
+06/20/2026 04:01:30 PM: INFO: *********** Starting Search Customer By Name *****************
+06/20/2026 04:01:31 PM: INFO: ************ Searching Customer By Name *****************
+06/20/2026 04:01:39 PM: INFO: ************* TC_SearchCustomerByName_004 Finished ************
+06/20/2026 04:05:43 PM: WARNING: Exception managing chrome: error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)
+06/20/2026 04:05:43 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver  is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/20/2026 04:05:49 PM: INFO: ***************** SearchCustomerByName_005 ******************************
+06/20/2026 04:06:04 PM: INFO: *************Login Successful ***********************
+06/20/2026 04:06:04 PM: INFO: *********** Starting Search Customer By Name *****************
+06/20/2026 04:06:07 PM: INFO: ************ Searching Customer By Name *****************
+06/20/2026 04:06:16 PM: INFO: ************* TC_SearchCustomerByName_004 Finished ************
+06/20/2026 04:20:23 PM: WARNING: Exception managing chrome: error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)
+06/20/2026 04:20:23 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver  is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/20/2026 04:20:30 PM: INFO: ***************** Test_003_AddCustomer ******************************
+06/20/2026 04:21:00 PM: INFO: *************Login Successful ***********************
+06/20/2026 04:21:00 PM: INFO: *************** Starting Add Customer Test ********************
+06/20/2026 04:21:02 PM: INFO: ************** Providing customer info **********************
+06/20/2026 04:21:09 PM: INFO: **************** Saving the customer info ***************
+06/20/2026 04:21:09 PM: INFO: ************** Add customer validation started *****************
+06/20/2026 04:21:09 PM: ERROR: **************** Add Customer Test Failed *********************
+06/20/2026 04:21:10 PM: WARNING: Exception managing chrome: error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)
+06/20/2026 04:21:10 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver  is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/20/2026 04:21:14 PM: INFO: ******************* Verifying the login test *********************
+06/20/2026 04:21:30 PM: INFO: ******************* Login test is passed *********************
+06/22/2026 02:59:17 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/22/2026 02:59:21 PM: INFO: ***************** Test_003_AddCustomer ******************************
+06/22/2026 02:59:52 PM: INFO: *************Login Successful ***********************
+06/22/2026 02:59:52 PM: INFO: *************** Starting Add Customer Test ********************
+06/22/2026 02:59:55 PM: INFO: ************** Providing customer info **********************
+06/22/2026 02:59:57 PM: INFO: **************** Saving the customer info ***************
+06/22/2026 02:59:57 PM: INFO: ************** Add customer validation started *****************
+06/22/2026 02:59:58 PM: ERROR: **************** Add Customer Test Failed *********************
+06/22/2026 02:59:58 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/22/2026 03:00:01 PM: INFO: ******************* Verifying the login test *********************
+06/22/2026 03:00:17 PM: INFO: ******************* Login test is passed *********************
+06/22/2026 03:01:21 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/22/2026 03:01:23 PM: INFO: ***************** Test_003_AddCustomer ******************************
+06/22/2026 03:01:39 PM: INFO: *************Login Successful ***********************
+06/22/2026 03:01:39 PM: INFO: *************** Starting Add Customer Test ********************
+06/22/2026 03:01:44 PM: INFO: ************** Providing customer info **********************
+06/22/2026 03:01:46 PM: INFO: **************** Saving the customer info ***************
+06/22/2026 03:01:46 PM: INFO: ************** Add customer validation started *****************
+06/22/2026 03:01:47 PM: ERROR: **************** Add Customer Test Failed *********************
+06/22/2026 03:01:47 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/22/2026 03:01:49 PM: INFO: ******************* Verifying the login test *********************
+06/22/2026 03:01:58 PM: INFO: ******************* Login test is passed *********************
+06/22/2026 03:02:17 PM: WARNING: The geckodriver version (0.36.0) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\geckodriver.exe might not be compatible with the detected firefox version (151.0.4); currently, geckodriver 0.37.0 is recommended for firefox 151.*, so it is advised to delete the driver in PATH and retry
+06/22/2026 03:02:36 PM: INFO: ***************** Test_003_AddCustomer ******************************
+06/22/2026 03:03:01 PM: INFO: *************Login Successful ***********************
+06/22/2026 03:03:01 PM: INFO: *************** Starting Add Customer Test ********************
+06/22/2026 03:03:20 PM: WARNING: The geckodriver version (0.36.0) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\geckodriver.exe might not be compatible with the detected firefox version (151.0.4); currently, geckodriver 0.37.0 is recommended for firefox 151.*, so it is advised to delete the driver in PATH and retry
+06/22/2026 03:14:49 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/22/2026 03:14:53 PM: INFO: ***************** Test_003_AddCustomer ******************************
+06/22/2026 03:15:05 PM: INFO: *************Login Successful ***********************
+06/22/2026 03:15:05 PM: INFO: *************** Starting Add Customer Test ********************
+06/22/2026 03:15:07 PM: INFO: ************** Providing customer info **********************
+06/22/2026 03:15:11 PM: INFO: **************** Saving the customer info ***************
+06/22/2026 03:15:11 PM: INFO: ************** Add customer validation started *****************
+06/22/2026 03:15:11 PM: ERROR: **************** Add Customer Test Failed *********************
+06/22/2026 03:15:12 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/22/2026 03:15:17 PM: INFO: ******************* Verifying the login test *********************
+06/22/2026 03:15:28 PM: INFO: ******************* Login test is passed *********************
+06/22/2026 03:17:57 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/22/2026 03:18:10 PM: INFO: ***************** Test_003_AddCustomer ******************************
+06/22/2026 03:18:14 PM: INFO: *************Login Successful ***********************
+06/22/2026 03:18:14 PM: INFO: *************** Starting Add Customer Test ********************
+06/22/2026 03:18:16 PM: INFO: ************** Providing customer info **********************
+06/22/2026 03:18:18 PM: INFO: **************** Saving the customer info ***************
+06/22/2026 03:18:18 PM: INFO: ************** Add customer validation started *****************
+06/22/2026 03:18:18 PM: ERROR: **************** Add Customer Test Failed *********************
+06/22/2026 03:18:19 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/22/2026 03:18:21 PM: INFO: ******************* Verifying the login test *********************
+06/22/2026 03:18:41 PM: INFO: ******************* Login test is passed *********************
+06/22/2026 03:19:01 PM: WARNING: The geckodriver version (0.36.0) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\geckodriver.exe might not be compatible with the detected firefox version (151.0.4); currently, geckodriver 0.37.0 is recommended for firefox 151.*, so it is advised to delete the driver in PATH and retry
+06/22/2026 03:19:35 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/22/2026 03:19:43 PM: INFO: ***************** Test_003_AddCustomer ******************************
+06/22/2026 03:19:48 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/22/2026 03:19:51 PM: INFO: ******************* Verifying the login test *********************
+06/22/2026 03:20:02 PM: INFO: ******************* Login test is passed *********************
+06/22/2026 03:21:27 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/22/2026 03:21:29 PM: INFO: ***************** Test_003_AddCustomer ******************************
+06/22/2026 03:21:33 PM: INFO: *************Login Successful ***********************
+06/22/2026 03:21:33 PM: INFO: *************** Starting Add Customer Test ********************
+06/22/2026 03:21:34 PM: INFO: ************** Providing customer info **********************
+06/22/2026 03:21:36 PM: INFO: **************** Saving the customer info ***************
+06/22/2026 03:21:36 PM: INFO: ************** Add customer validation started *****************
+06/22/2026 03:21:36 PM: INFO: ************** Add Customer Test Passed *******************
+06/22/2026 03:21:37 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/22/2026 03:21:38 PM: INFO: ******************* Verifying the login test *********************
+06/22/2026 03:21:53 PM: INFO: ******************* Login test is passed *********************
+06/22/2026 03:33:31 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/22/2026 03:33:36 PM: INFO: ***************** Test_003_AddCustomer ******************************
+06/22/2026 03:33:42 PM: INFO: *************Login Successful ***********************
+06/22/2026 03:33:42 PM: INFO: *************** Starting Add Customer Test ********************
+06/22/2026 03:33:44 PM: INFO: ************** Providing customer info **********************
+06/22/2026 03:33:47 PM: INFO: **************** Saving the customer info ***************
+06/22/2026 03:33:47 PM: INFO: ************** Add customer validation started *****************
+06/22/2026 03:33:49 PM: INFO: ************** Add Customer Test Passed *******************
+06/22/2026 03:33:50 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/22/2026 03:33:56 PM: INFO: ******************* Verifying the login test *********************
+06/22/2026 03:34:07 PM: INFO: ******************* Login test is passed *********************
+06/22/2026 03:36:07 PM: WARNING: The geckodriver version (0.36.0) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\geckodriver.exe might not be compatible with the detected firefox version (151.0.4); currently, geckodriver 0.37.0 is recommended for firefox 151.*, so it is advised to delete the driver in PATH and retry
+06/22/2026 03:45:04 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/22/2026 03:45:08 PM: INFO: ***************** Test_003_AddCustomer ******************************
+06/22/2026 03:45:21 PM: INFO: *************Login Successful ***********************
+06/22/2026 03:45:21 PM: INFO: *************** Starting Add Customer Test ********************
+06/22/2026 03:45:23 PM: INFO: ************** Providing customer info **********************
+06/22/2026 03:45:27 PM: INFO: **************** Saving the customer info ***************
+06/22/2026 03:45:27 PM: INFO: ************** Add customer validation started *****************
+06/22/2026 03:45:27 PM: INFO: ************** Add Customer Test Passed *******************
+06/22/2026 03:45:30 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/22/2026 03:45:33 PM: INFO: ******************* Verifying the login test *********************
+06/22/2026 03:45:45 PM: INFO: ******************* Login test is passed *********************
+06/22/2026 03:45:52 PM: WARNING: The geckodriver version (0.36.0) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\geckodriver.exe might not be compatible with the detected firefox version (152.0.1); currently, geckodriver 0.37.0 is recommended for firefox 152.*, so it is advised to delete the driver in PATH and retry
+06/22/2026 03:46:15 PM: INFO: ***************** Test_003_AddCustomer ******************************
+06/22/2026 03:46:34 PM: WARNING: The geckodriver version (0.36.0) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\geckodriver.exe might not be compatible with the detected firefox version (152.0.1); currently, geckodriver 0.37.0 is recommended for firefox 152.*, so it is advised to delete the driver in PATH and retry
+06/22/2026 03:46:55 PM: INFO: ******************* Verifying the login test *********************
+06/22/2026 03:47:16 PM: INFO: ******************* Login test is passed *********************
+06/22/2026 03:50:27 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/22/2026 03:50:45 PM: INFO: ***************** Test_003_AddCustomer ******************************
+06/22/2026 03:51:04 PM: INFO: *************Login Successful ***********************
+06/22/2026 03:51:04 PM: INFO: *************** Starting Add Customer Test ********************
+06/22/2026 03:51:08 PM: INFO: ************** Providing customer info **********************
+06/22/2026 03:51:15 PM: INFO: **************** Saving the customer info ***************
+06/22/2026 03:51:15 PM: INFO: ************** Add customer validation started *****************
+06/22/2026 03:51:15 PM: INFO: ************** Add Customer Test Passed *******************
+06/22/2026 03:51:16 PM: WARNING: The chromedriver version (148.0.7778.97) detected in PATH at C:\Users\ideal\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.103); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+06/22/2026 03:51:18 PM: INFO: ******************* Verifying the login test *********************
+06/22/2026 03:51:27 PM: INFO: ******************* Login test is passed *********************
